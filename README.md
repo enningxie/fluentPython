@@ -1,0 +1,2 @@
+# fluentPython
+read Fluent Python
